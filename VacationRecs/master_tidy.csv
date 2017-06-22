@@ -1,0 +1,1228 @@
+User,Location,Rating
+1,"Harbour Island, Bahamas",5
+1,"Telluride, Colorado",4.5
+1,"Aspen, Colorado",4.5
+1,"New York City, New York",4
+1,"New Orleans, Louisiana",4
+2,"Cabo San Lucas, Mexico",4.5
+2,"Telluride, Colorado",5
+2,"Aspen, Colorado",4
+2,"Destin, Florida",4
+2,"Belize City, Belize",5
+3,"New Orleans, Louisiana",4.5
+3,"Cayman, Cayman Islands",3.5
+3,"Destin, Florida",5
+3,"Punta Cana, Domican Republic",4
+3,"Turks and Caicos, Turks and Caicos",3.5
+4,"Destin, Florida",2.5
+4,"San Antonio, Texas",5
+4,"Telluride, Colorado",4
+4,"Chicago, Illinois",3.5
+4,"Houston, Texas",1
+5,"Cape Town, South Africa",4
+5,"Paris, France",1.5
+5,"Nice, France",4.5
+5,"Austin, Texas",5
+5,"London, UK",4
+6,"Cape Town, South Africa",5
+6,"Gulf Shores, Alabama ",4
+6,"Destin, Florida",3
+6,"Jackson, Mississippi",1.5
+7,"Orlando, Florida",5
+7,"Nice, France",3
+7,"Geneva, Switzerland",5
+7,"Dublin, Ireland",5
+7,"Lexington, Kentucky",4
+8,"New York City, New York",4.5
+8,"Seoul, South Korea",5
+8,"Vancouver, Canada",3.5
+8,"Toronto, Canada",4
+8,"Macau, China",4
+9,"Cayman, Cayman Islands",4.5
+9,"Lisbon, Portugal",5
+9,"Belize City, Belize",3
+9,"Geneva, Switzerland",4
+9,"Punta Cana, Domican Republic",3
+10,"Rome, Italy",4
+10,"London, UK",4.5
+10,"Berlin, Germany",5
+10,"Madrid, Spain",5
+10,"Florence, Italy",5
+11,"New York City, New York",3
+11,"Milwaukee, Wisconsin",4.5
+11,"Omaha, Nebraska",3.5
+11,"Denver, Colorado",5
+11,"San Diego, California",3.5
+12,"Barcelona, Spain",5
+12,"San Juan, Puerto Rico",5
+12,"Rome, Italy",4.5
+12,"Athens, Greece",4.5
+12,"St. John, Virgin Islands",5
+13,"Vancouver, Canada",4
+13,"Miami, Florida",3.5
+13,"Ogunquit, Maine",3.5
+13,"Ocean City, Maryland",4
+13,"Toronto, Canada",3.5
+14,"Los Angeles, California",5
+14,"Dublin, Ireland",4
+14,"Lake Tahoe, California",4.5
+14,"Tokyo, Japan",5
+14,"Destin, Florida",3
+15,"Madrid, Spain",5
+15,"Lisbon, Portugal",5
+15,"Rome, Italy",5
+15,"Florence, Italy",4.5
+15,"Copenhagen, Denmark",5
+16,"Los Angeles, California",4
+16,"San Diego, California",4
+16,"Miami, Florida",3.5
+16,"Detroit, Michigan",4.5
+16,"Phoenix, Arizona",3.5
+17,"Chicago, Illinois",5
+17,"Lake Tahoe, California",5
+17,"Phoenix, Arizona",5
+17,"Ogunquit, Maine",5
+17,"Miami, Florida",4.5
+18,"Rome, Italy",5
+18,"Boston, Massachusetts",5
+18,"Vancouver, Canada",5
+18,"Denver, Colorado",5
+18,"Lake Tahoe, California",5
+19,"London, UK",5
+19,"Rome, Italy",5
+19,"Cabo San Lucas, Mexico",4
+19,"Florence, Italy",3
+19,"Paris, France",4.5
+20,"Lima, Peru",4.5
+20,"Havana, Cuba",5
+20,"San Francisco, California",3.5
+20,"Cape Town, South Africa",4
+20,"Istanbul, Turkey",5
+21,"Destin, Florida",5
+21,"Madrid, Spain",3.5
+21,"Rehobeth, Delaware",4
+21,"Lake Tahoe, California",4.5
+21,"Cayman, Cayman Islands",4
+22,"Cape Town, South Africa",4.5
+22,"Tulum, Mexico",4
+22,"Barcelona, Spain",4
+22,"Florence, Italy",5
+22,"Toronto, Canada",3
+23,"Dublin, Ireland",4.5
+23,"Miami, Florida",4
+23,"Durham, North Carolina",4
+23,"St. Louis, Missouri",4.5
+23,"Charlotte, North Carolina",4.5
+24,"Dublin, Ireland",4.5
+24,"Key West, Florida",4
+24,"Paris, France",3.5
+24,"London, UK",4
+24,"Durham, North Carolina",3.5
+25,"Phoenix, Arizona",2
+25,"Miami, Florida",4
+25,"San Francisco, California",3
+25,"Lake Tahoe, California",5
+26,"Seoul, South Korea",4
+26,"Saigon, Vietnam",3.5
+26,"Nashville, Tennessee",4.5
+26,"Los Angeles, California",4.5
+26,"New York City, New York",4
+27,"Lake Tahoe, California",4.5
+27,"Telluride, Colorado",4.5
+27,"Aspen, Colorado",4.5
+27,"Woodbury, Connecticut",2.5
+27,"New York City, New York",3
+28,"Houston, Texas",5
+28,"Cape Town, South Africa",4.5
+28,"Paris, France",2
+28,"Aspen, Colorado",4
+28,"El Paso, Texas",0.5
+29,"New York City, New York",4.5
+29,"Cabo San Lucas, Mexico",5
+29,"Telluride, Colorado",4
+29,"San Diego, California",4.5
+30,"Cabo San Lucas, Mexico",5
+30,"Telluride, Colorado",4.5
+30,"New Orleans, Louisiana",3
+30,"Seattle, Washington",5
+30,"Harbour Island, Bahamas",5
+31,"New York City, New York",4
+31,"Cabo San Lucas, Mexico",4.5
+31,"Los Angeles, California",1
+31,"Paris, France",3
+31,"London, UK",3.5
+32,"Cabo San Lucas, Mexico",5
+32,"Dubrovnik, Croatia",5
+32,"Cape Town, South Africa",5
+32,"Barcelona, Spain",5
+32,"San Juan, Puerto Rico",5
+33,"Nice, France",5
+33,"Madrid, Spain",5
+33,"Barcelona, Spain",5
+33,"Amsterdam, Netherlands",5
+33,"Rome, Italy",5
+34,"San Juan, Puerto Rico",5
+34,"Boston, Massachusetts",3.5
+34,"Aspen, Colorado",4.5
+34,"Cabo San Lucas, Mexico",5
+34,"Gulf Shores, Alabama ",3
+35,"Telluride, Colorado",4.5
+35,"Aspen, Colorado",4.5
+35,"New York City, New York",4.5
+35,"New Orleans, Louisiana",4.5
+36,"San Francisco, California",4
+36,"London, UK",5
+36,"Lima, Peru",5
+36,"Vancouver, Canada",5
+36,"New York City, New York",4
+37,"Nice, France",5
+37,"Paris, France",5
+37,"Kitzbuel, Austria",4.5
+37,"Hartwell, Georgia",5
+37,"Tulum, Mexico",4
+38,"New Orleans, Louisiana",5
+38,"Nashville, Tennessee",4
+38,"Tulum, Mexico",5
+38,"Telluride, Colorado",4.5
+38,"Key West, Florida",4
+39,"Dublin, Ireland",3
+39,"Rome, Italy",5
+39,"Los Angeles, California",5
+39,"Paris, France",4.5
+39,"San Francisco, California",4.5
+40,"Los Angeles, California",4.5
+40,"San Francisco, California",5
+40,"Boston, Massachusetts",4
+40,"Florence, Italy",5
+40,"Rome, Italy",5
+41,"Key West, Florida",5
+41,"Turks and Caicos, Turks and Caicos",5
+41,"Miami, Florida",5
+41,"Honolulu, Hawaii",5
+42,"Gulf Shores, Alabama ",4
+42,"Amsterdam, Netherlands",4
+42,"Rehobeth, Delaware",2.5
+42,"Watch Hill, Rhode Island",3
+42,"St. John, Virgin Islands",3.5
+43,"Cape Town, South Africa",5
+43,"Boston, Massachusetts",3.5
+43,"Seattle, Washington",4
+43,"Phoenix, Arizona",4
+43,"Chicago, Illinois",5
+44,"New York City, New York",4.5
+44,"Key West, Florida",4
+44,"Los Angeles, California",5
+44,"New Delhi, India",4.5
+45,"Las Vegas, Nevada",2.5
+45,"Lisbon, Portugal",5
+45,"Kathmandu, Nepal",5
+45,"Florence, Italy",5
+45,"Paris, France",5
+46,"Key West, Florida",4
+46,"Sun Valley, Idaho",4
+46,"Jackson Hole, Wyoming",4
+46,"St. John, Virgin Islands",4.5
+47,"Jackson Hole, Wyoming",4
+47,"Dublin, Ireland",5
+47,"Nice, France",5
+47,"New Delhi, India",4.5
+47,"Boston, Massachusetts",4
+48,"San Francisco, California",4.5
+48,"Los Angeles, California",4
+48,"Albuquerque, New Mexico",4.5
+48,"Denver, Colorado",5
+48,"Boston, Massachusetts",3
+49,"Seattle, Washington",4.5
+49,"Honolulu, Hawaii",5
+49,"Cape Town, South Africa",5
+49,"San Diego, California",3.5
+49,"Berlin, Germany",3.5
+50,"Las Vegas, Nevada",3.5
+50,"Honolulu, Hawaii",4.5
+50,"Boston, Massachusetts",5
+50,"Lake Tahoe, California",4.5
+50,"Phoenix, Arizona",3
+51,"Key West, Florida",3.5
+51,"Barcelona, Spain",4
+51,"Miami, Florida",4
+51,"New York City, New York",4
+51,"Boston, Massachusetts",4
+52,"Lisbon, Portugal",5
+52,"Las Vegas, Nevada",3
+52,"Paris, France",5
+52,"Vancouver, Canada",4
+52,"Florence, Italy",5
+53,"Lisbon, Portugal",4
+53,"Kilimanjaro, Tanzania",5
+53,"Nairobi, Kenya",5
+53,"Ogunquit, Maine",5
+53,"Paris, France",5
+54,"Tokyo, Japan",4
+54,"Boston, Massachusetts",5
+54,"Washington DC, Washington DC",3
+54,"New York City, New York",4.5
+54,"Orlando, Florida",5
+55,"Houston, Texas",4.5
+55,"San Antonio, Texas",4
+55,"New York City, New York",4
+55,"San Francisco, California",4
+55,"Denver, Colorado",3.5
+56,"London, UK",5
+56,"Paris, France",4
+56,"Dublin, Ireland",3.5
+56,"Amsterdam, Netherlands",3
+56,"Brussels, Belgium",3.5
+57,"Rehobeth, Delaware",4
+57,"Ogunquit, Maine",4.5
+57,"Ocean City, Maryland",2
+57,"Omaha, Nebraska",2
+58,"Toronto, Canada",4.5
+58,"New York City, New York",5
+58,"Washington DC, Washington DC",5
+58,"Rehobeth, Delaware",4.5
+58,"Ogunquit, Maine",5
+59,"Copenhagen, Denmark",4.5
+59,"Berlin, Germany",4
+59,"Amsterdam, Netherlands",5
+59,"Paris, France",4
+59,"London, UK",4.5
+60,"Lexington, Kentucky",5
+60,"Dublin, Ireland",5
+60,"New Delhi, India",5
+60,"Nice, France",5
+60,"Washington DC, Washington DC",5
+61,"Osa Peninsula, Costa Rica",5
+61,"Vancouver, Canada",5
+61,"Boston, Massachusetts",1
+61,"Red Frog Beach, Panama ",4.5
+62,"Cape Town, South Africa",5
+62,"St. John, Virgin Islands",5
+62,"Telluride, Colorado",4.5
+62,"Amsterdam, Netherlands",5
+62,"Barcelona, Spain",3.5
+63,"Cape Town, South Africa",5
+63,"Ubud, Indonesia",4.5
+63,"Istanbul, Turkey",5
+63,"Berlin, Germany",4.5
+63,"Buenos Aires, Argentina",4
+64,"Belgrade, Serbia",5
+64,"Dublin, Ireland",4
+64,"Istanbul, Turkey",5
+64,"Dubrovnik, Croatia",4.5
+64,"Bratislava, Slovakia",3.5
+65,"Barcelona, Spain",5
+65,"London, UK",5
+65,"Durham, North Carolina",5
+65,"Boston, Massachusetts",3.5
+65,"Cape Town, South Africa",4
+66,"Lisbon, Portugal",4.5
+66,"Toronto, Canada",5
+66,"Nairobi, Kenya",3
+66,"Kilimanjaro, Tanzania",5
+66,"Ogunquit, Maine",4
+67,"Telluride, Colorado",4
+67,"Aspen, Colorado",5
+67,"New York City, New York",3
+67,"New Orleans, Louisiana",3
+67,"Cabo San Lucas, Mexico",4
+67,"Destin, Florida",4
+67,"Houston, Texas",5
+67,"Cape Town, South Africa",4
+67,"Paris, France",2
+67,"Nice, France",4
+67,"Austin, Texas",5
+67,"London, UK",4
+67,"Gulf Shores, Alabama",2
+67,"Orlando, Florida",2
+67,"Omaha, Nebraska",2
+67,"Denver, Colorado",4
+67,"Los Angeles, California",3
+67,"Phoenix, Arizona",3
+67,"Boston, Massachusetts",4
+67,"St. Louis, Missouri",3
+67,"El Paso, Texas",1
+67,"San Antonio, Texas",1
+68,"Harbour Island, Bahamas",5
+68,"Telluride, Colorado",5
+68,"Aspen, Colorado",5
+68,"New York City, New York",4
+68,"New Orleans, Louisiana",4
+68,"Cabo San Lucas, Mexico",5
+68,"Destin, Florida",3
+68,"Belize City, Belize",3
+68,"Cayman, Cayman Islands",4
+68,"Punta Cana, Domican Republic",2
+68,"Turks and Caicos, Turks and Caicos",3
+68,"Chicago, Illinois",3
+68,"Houston, Texas",1
+68,"Cape Town, South Africa",5
+68,"Paris, France",5
+68,"Nice, France",5
+68,"Austin, Texas",5
+68,"London, UK",5
+68,"Gulf Shores, Alabama",4
+68,"Jackson, Mississippi",3
+68,"Orlando, Florida",3
+68,"Geneva, Switzerland",3
+68,"Dublin, Ireland",3
+68,"Lexington, Kentucky",3
+68,"Seoul, South Korea",4
+68,"Vancouver, Canada",3
+68,"Toronto, Canada",3
+68,"Macau, China",5
+68,"Lisbon, Portugal",3
+68,"Rome, Italy",3
+68,"Berlin, Germany",3
+68,"Madrid, Spain",3
+68,"Florence, Italy",3
+68,"Milwaukee, Wisconsin",3
+68,"Omaha, Nebraska",4
+68,"Denver, Colorado",4
+68,"San Diego, California",5
+68,"Barcelona, Spain",3
+68,"San Juan, Puerto Rico",4
+68,"Athens, Greece",5
+68,"St. John, Virgin Islands",5
+68,"Miami, Florida",4
+68,"Ogunquit, Maine",3
+68,"Ocean City, Maryland",4
+68,"Los Angeles, California",3
+68,"Lake Tahoe, California",4
+68,"Tokyo, Japan",3
+68,"Copenhagen, Denmark",3
+68,"Detroit, Michigan",3
+68,"Phoenix, Arizona",4
+68,"Boston, Massachusetts",3
+68,"Lima, Peru",3
+68,"Havana, Cuba",3
+68,"San Francisco, California",4
+68,"Istanbul, Turkey",5
+68,"Rehobeth, Delaware",3
+68,"Tulum, Mexico",3
+68,"Durham, North Carolina",2
+68,"St. Louis, Missouri",3
+68,"Charlotte, North Carolina",3
+68,"Key West, Florida",3
+68,"Saigon, Vietnam",3
+68,"Nashville, Tennessee",3
+68,"Woodbury, Connecticut",3
+68,"El Paso, Texas",3
+68,"Seattle, Washington",3
+68,"Dubrovnik, Croatia",3
+68,"Amsterdam, Netherlands",3
+68,"Kitzbuel, Austria",4
+68,"Hartwell, Georgia",3
+68,"Honolulu, Hawaii",4
+68,"Watch Hill, Rhode Island",3
+68,"New Delhi, India",3
+68,"Las Vegas, Nevada",4
+68,"Kathmandu, Nepal",3
+68,"Sun Valley, Idaho",3
+68,"Jackson Hole, Wyoming",4
+68,"Albuquerque, New Mexico",5
+68,"Kilimanjaro, Tanzania",4
+68,"Nairobi, Kenya",3
+68,"Washington D.C., U.S.",2
+68,"San Antonio, Texas",1
+68,"Brussels, Belgium",3
+68,"Osa Peninsula, Costa Rica",3
+68,"Red Frog Beach, Panama",3
+68,"Ubud, Indonesia",3
+68,"Buenos Aires, Argentina",5
+68,"Belgrade, Serbia",3
+68,"Bratislava, Slovakia",3
+69,"New York City, New York",5
+69,"Chicago, Illinois",4
+69,"Cape Town, South Africa",5
+69,"Paris, France",5
+69,"Nice, France",5
+69,"London, UK",4
+69,"Seoul, South Korea",5
+69,"Vancouver, Canada",4
+69,"Toronto, Canada",5
+69,"Macau, China",5
+69,"Rome, Italy",4
+69,"Madrid, Spain",5
+69,"Barcelona, Spain",4
+69,"Los Angeles, California",3
+69,"Lake Tahoe, California",3
+69,"Tokyo, Japan",5
+69,"Boston, Massachusetts",5
+69,"San Francisco, California",4
+69,"Seattle, Washington",4
+69,"Honolulu, Hawaii",5
+69,"Las Vegas, Nevada",3
+69,"Washington D.C., U.S.",4
+70,"Harbour Island, Bahamas",5
+70,"Telluride, Colorado",2
+70,"Aspen, Colorado",2
+70,"New York City, New York",3
+70,"New Orleans, Louisiana",3
+70,"Cabo San Lucas, Mexico",5
+70,"Destin, Florida",4
+70,"Belize City, Belize",2
+70,"Cayman, Cayman Islands",5
+70,"Punta Cana, Domican Republic",5
+70,"Turks and Caicos, Turks and Caicos",5
+70,"Chicago, Illinois",2
+70,"Houston, Texas",1
+70,"Cape Town, South Africa",5
+70,"Paris, France",3
+70,"Nice, France",3
+71,"Aspen, Colorado",5
+71,"New York City, New York",5
+71,"New Orleans, Louisiana",5
+71,"Chicago, Illinois",5
+71,"Paris, France",5
+71,"London, UK",4
+71,"Jackson, Mississippi",3
+71,"Orlando, Florida",5
+71,"Geneva, Switzerland",5
+71,"Dublin, Ireland",5
+71,"Lexington, Kentucky",5
+71,"San Diego, California",4
+71,"Detroit, Michigan",5
+71,"Boston, Massachusetts",5
+71,"Durham, North Carolina",4
+71,"Charlotte, North Carolina",4
+71,"Nashville, Tennessee",4
+71,"New Delhi, India",5
+71,"Jackson Hole, Wyoming",5
+71,"Albuquerque, New Mexico",5
+71,"Washington D.C., U.S.",5
+72,"New York City, New York",5
+72,"New Orleans, Louisiana",2
+72,"Chicago, Illinois",4
+72,"Houston, Texas",2
+72,"Paris, France",5
+72,"Austin, Texas",5
+72,"London, UK",4
+72,"Orlando, Florida",5
+72,"Geneva, Switzerland",4
+72,"Dublin, Ireland",4
+72,"St. John, Virgin Islands",3
+72,"Miami, Florida",3
+72,"Los Angeles, California",4
+72,"Tokyo, Japan",5
+72,"Boston, Massachusetts",3
+72,"Durham, North Carolina",3
+72,"Charlotte, North Carolina",3
+72,"Nashville, Tennessee",3
+72,"New Delhi, India",4
+72,"Albuquerque, New Mexico",3
+72,"Washington D.C., U.S.",4
+73,"Harbour Island, Bahamas",5
+73,"Telluride, Colorado",3
+73,"Aspen, Colorado",4
+73,"New York City, New York",3
+73,"Cabo San Lucas, Mexico",5
+73,"Destin, Florida",3
+73,"Chicago, Illinois",4
+73,"Houston, Texas",2
+73,"Paris, France",4
+73,"Austin, Texas",5
+73,"Gulf Shores, Alabama",5
+73,"Geneva, Switzerland",3
+73,"Barcelona, Spain",5
+73,"Athens, Greece",5
+73,"Miami, Florida",3
+73,"Los Angeles, California",4
+73,"Lake Tahoe, California",5
+73,"Detroit, Michigan",2
+73,"El Paso, Texas",2
+73,"Amsterdam, Netherlands",4
+73,"Albuquerque, New Mexico",4
+73,"San Antonio, Texas",3
+74,"Telluride, Colorado",5
+74,"Aspen, Colorado",5
+74,"New York City, New York",4
+74,"New Orleans, Louisiana",5
+74,"Cabo San Lucas, Mexico",5
+74,"Destin, Florida",4
+74,"Cayman, Cayman Islands",5
+74,"Houston, Texas",1
+74,"Nice, France",5
+74,"Austin, Texas",5
+74,"Gulf Shores, Alabama",3
+74,"Lexington, Kentucky",5
+74,"Florence, Italy",5
+74,"Denver, Colorado",3
+74,"Barcelona, Spain",5
+74,"Boston, Massachusetts",4
+74,"San Francisco, California",4
+74,"Nashville, Tennessee",4
+74,"Las Vegas, Nevada",4
+75,"Harbour Island, Bahamas",3
+75,"Telluride, Colorado",2
+75,"Aspen, Colorado",3
+75,"New York City, New York",3
+75,"New Orleans, Louisiana",2
+75,"Cabo San Lucas, Mexico",2
+75,"Destin, Florida",1
+75,"Belize City, Belize",2
+75,"Cayman, Cayman Islands",3
+75,"Punta Cana, Domican Republic",3
+75,"Turks and Caicos, Turks and Caicos",2
+75,"Chicago, Illinois",3
+75,"Houston, Texas",4
+75,"Cape Town, South Africa",4
+75,"Paris, France",5
+75,"Nice, France",5
+75,"Austin, Texas",4
+75,"London, UK",3
+75,"Gulf Shores, Alabama",1
+75,"Jackson, Mississippi",2
+75,"Orlando, Florida",2
+75,"Geneva, Switzerland",5
+75,"Dublin, Ireland",4
+75,"Lexington, Kentucky",3
+75,"Seoul, South Korea",4
+75,"Vancouver, Canada",4
+75,"Toronto, Canada",4
+75,"Macau, China",3
+75,"Lisbon, Portugal",3
+75,"Rome, Italy",4
+75,"Berlin, Germany",5
+75,"Madrid, Spain",4
+75,"Florence, Italy",4
+75,"Milwaukee, Wisconsin",3
+75,"Omaha, Nebraska",2
+75,"Denver, Colorado",2
+75,"San Diego, California",3
+75,"Barcelona, Spain",3
+75,"San Juan, Puerto Rico",1
+75,"Athens, Greece",1
+75,"St. John, Virgin Islands",3
+75,"Miami, Florida",2
+75,"Ogunquit, Maine",2
+75,"Ocean City, Maryland",3
+75,"Los Angeles, California",4
+75,"Lake Tahoe, California",3
+75,"Tokyo, Japan",5
+75,"Copenhagen, Denmark",5
+75,"Detroit, Michigan",2
+75,"Phoenix, Arizona",3
+75,"Boston, Massachusetts",3
+75,"Lima, Peru",2
+75,"Havana, Cuba",2
+75,"San Francisco, California",4
+75,"Istanbul, Turkey",1
+75,"Rehobeth, Delaware",3
+75,"Tulum, Mexico",2
+75,"Durham, North Carolina",3
+75,"St. Louis, Missouri",3
+75,"Charlotte, North Carolina",3
+75,"Key West, Florida",3
+75,"Saigon, Vietnam",2
+75,"Nashville, Tennessee",3
+75,"Woodbury, Connecticut",3
+75,"El Paso, Texas",3
+75,"Seattle, Washington",5
+75,"Dubrovnik, Croatia",5
+75,"Amsterdam, Netherlands",5
+75,"Kitzbuel, Austria",4
+75,"Hartwell, Georgia",4
+75,"Honolulu, Hawaii",4
+75,"Watch Hill, Rhode Island",4
+75,"New Delhi, India",1
+75,"Las Vegas, Nevada",4
+75,"Kathmandu, Nepal",2
+75,"Sun Valley, Idaho",3
+75,"Jackson Hole, Wyoming",3
+75,"Albuquerque, New Mexico",3
+75,"Kilimanjaro, Tanzania",2
+75,"Nairobi, Kenya",1
+75,"Washington D.C., U.S.",4
+75,"San Antonio, Texas",3
+75,"Brussels, Belgium",5
+75,"Osa Peninsula, Costa Rica",2
+75,"Red Frog Beach, Panama",5
+75,"Ubud, Indonesia",2
+75,"Buenos Aires, Argentina",3
+75,"Belgrade, Serbia",3
+75,"Bratislava, Slovakia",4
+76,"Telluride, Colorado",4
+76,"Aspen, Colorado",5
+76,"New York City, New York",5
+76,"New Orleans, Louisiana",5
+76,"Cabo San Lucas, Mexico",5
+76,"Belize City, Belize",3
+76,"Cayman, Cayman Islands",4
+76,"Houston, Texas",1
+76,"Cape Town, South Africa",5
+76,"Austin, Texas",5
+76,"London, UK",5
+76,"Gulf Shores, Alabama",2
+76,"Orlando, Florida",3
+76,"Milwaukee, Wisconsin",3
+76,"Omaha, Nebraska",3
+76,"Denver, Colorado",5
+76,"San Diego, California",5
+76,"Los Angeles, California",4
+76,"Phoenix, Arizona",4
+76,"St. Louis, Missouri",3
+76,"Charlotte, North Carolina",3
+76,"Washington D.C., U.S.",5
+76,"San Antonio, Texas",3
+77,"Telluride, Colorado",4
+77,"Aspen, Colorado",5
+77,"New York City, New York",5
+77,"New Orleans, Louisiana",4
+77,"Cabo San Lucas, Mexico",5
+77,"Houston, Texas",5
+77,"Austin, Texas",5
+77,"Gulf Shores, Alabama",1
+77,"Orlando, Florida",4
+77,"Rome, Italy",4
+77,"Berlin, Germany",5
+77,"Madrid, Spain",4
+77,"Florence, Italy",5
+77,"Omaha, Nebraska",5
+77,"Athens, Greece",4
+77,"Phoenix, Arizona",4
+77,"Nashville, Tennessee",4
+77,"El Paso, Texas",1
+77,"Amsterdam, Netherlands",5
+77,"Washington D.C., U.S.",4
+77,"San Antonio, Texas",3
+78,"New Orleans, Louisiana",3
+78,"Houston, Texas",3
+78,"Austin, Texas",5
+78,"Jackson, Mississippi",3
+78,"Nashville, Tennessee",5
+78,"Jackson Hole, Wyoming",5
+79,"Harbour Island, Bahamas",4
+79,"Telluride, Colorado",5
+79,"Aspen, Colorado",4
+79,"New York City, New York",3
+79,"New Orleans, Louisiana",5
+79,"Cabo San Lucas, Mexico",4
+79,"Destin, Florida",5
+79,"Belize City, Belize",3
+79,"Chicago, Illinois",3
+79,"Houston, Texas",2
+79,"Cape Town, South Africa",3
+79,"Paris, France",1
+79,"Nice, France",2
+79,"Austin, Texas",4
+79,"London, UK",3
+79,"Gulf Shores, Alabama",3
+79,"Jackson, Mississippi",1
+79,"Geneva, Switzerland",4
+79,"Dublin, Ireland",4
+79,"Lexington, Kentucky",1
+79,"Seoul, South Korea",3
+79,"Vancouver, Canada",3
+79,"Toronto, Canada",3
+79,"Macau, China",1
+79,"Lisbon, Portugal",3
+79,"Rome, Italy",1
+79,"Berlin, Germany",4
+79,"Madrid, Spain",3
+79,"Florence, Italy",2
+79,"Milwaukee, Wisconsin",1
+79,"Omaha, Nebraska",1
+79,"Denver, Colorado",5
+79,"San Diego, California",3
+79,"Barcelona, Spain",3
+79,"San Juan, Puerto Rico",4
+79,"Athens, Greece",5
+79,"St. John, Virgin Islands",5
+79,"Miami, Florida",3
+79,"Ogunquit, Maine",2
+79,"Ocean City, Maryland",2
+79,"Los Angeles, California",3
+79,"Lake Tahoe, California",5
+79,"Tokyo, Japan",3
+79,"Copenhagen, Denmark",3
+79,"Detroit, Michigan",1
+79,"Phoenix, Arizona",1
+79,"Boston, Massachusetts",1
+79,"Lima, Peru",2
+79,"Havana, Cuba",3
+79,"San Francisco, California",3
+79,"Istanbul, Turkey",1
+79,"Rehobeth, Delaware",2
+79,"Tulum, Mexico",2
+79,"Durham, North Carolina",2
+79,"St. Louis, Missouri",4
+79,"Charlotte, North Carolina",3
+79,"Key West, Florida",4
+79,"Saigon, Vietnam",1
+79,"Nashville, Tennessee",5
+79,"Woodbury, Connecticut",2
+79,"El Paso, Texas",2
+79,"Seattle, Washington",4
+79,"Dubrovnik, Croatia",5
+79,"Amsterdam, Netherlands",4
+79,"Kitzbuel, Austria",2
+79,"Hartwell, Georgia",2
+79,"Honolulu, Hawaii",5
+79,"Watch Hill, Rhode Island",2
+79,"New Delhi, India",2
+79,"Las Vegas, Nevada",4
+79,"Kathmandu, Nepal",2
+79,"Sun Valley, Idaho",2
+79,"Jackson Hole, Wyoming",3
+79,"Albuquerque, New Mexico",2
+79,"Kilimanjaro, Tanzania",1
+79,"Nairobi, Kenya",1
+79,"Washington D.C., U.S.",4
+79,"San Antonio, Texas",2
+79,"Brussels, Belgium",4
+79,"Osa Peninsula, Costa Rica",5
+79,"Red Frog Beach, Panama",2
+79,"Ubud, Indonesia",1
+79,"Buenos Aires, Argentina",3
+79,"Belgrade, Serbia",1
+79,"Bratislava, Slovakia",1
+80,"Harbour Island, Bahamas",5
+80,"Telluride, Colorado",5
+80,"Aspen, Colorado",4
+80,"New York City, New York",2
+80,"New Orleans, Louisiana",5
+80,"Cabo San Lucas, Mexico",3
+80,"Destin, Florida",2
+80,"Belize City, Belize",5
+80,"Cayman, Cayman Islands",5
+80,"Punta Cana, Domican Republic",2
+80,"Turks and Caicos, Turks and Caicos",5
+80,"Chicago, Illinois",4
+80,"Houston, Texas",2
+80,"Cape Town, South Africa",4
+80,"Paris, France",2
+80,"Nice, France",4
+80,"Austin, Texas",4
+80,"London, UK",2
+80,"Gulf Shores, Alabama",5
+80,"Jackson, Mississippi",2
+80,"Orlando, Florida",3
+80,"Geneva, Switzerland",3
+80,"Dublin, Ireland",3
+80,"Lexington, Kentucky",3
+80,"Seoul, South Korea",4
+80,"Vancouver, Canada",4
+80,"Toronto, Canada",2
+80,"Macau, China",4
+80,"Lisbon, Portugal",4
+80,"Rome, Italy",4
+80,"Berlin, Germany",4
+80,"Madrid, Spain",3
+80,"Florence, Italy",4
+80,"Milwaukee, Wisconsin",3
+80,"Omaha, Nebraska",2
+80,"Denver, Colorado",4
+80,"San Diego, California",3
+80,"Barcelona, Spain",4
+80,"San Juan, Puerto Rico",1
+80,"Athens, Greece",2
+80,"St. John, Virgin Islands",5
+80,"Miami, Florida",4
+80,"Ogunquit, Maine",2
+80,"Ocean City, Maryland",4
+80,"Los Angeles, California",3
+80,"Lake Tahoe, California",4
+80,"Tokyo, Japan",5
+80,"Copenhagen, Denmark",4
+80,"Detroit, Michigan",2
+80,"Phoenix, Arizona",4
+80,"Boston, Massachusetts",5
+80,"Lima, Peru",3
+80,"Havana, Cuba",4
+80,"San Francisco, California",5
+80,"Istanbul, Turkey",1
+80,"Rehobeth, Delaware",2
+80,"Tulum, Mexico",2
+80,"Durham, North Carolina",4
+80,"St. Louis, Missouri",4
+80,"Charlotte, North Carolina",4
+80,"Key West, Florida",2
+80,"Saigon, Vietnam",4
+80,"Nashville, Tennessee",4
+80,"Woodbury, Connecticut",2
+80,"El Paso, Texas",1
+80,"Seattle, Washington",5
+80,"Dubrovnik, Croatia",5
+80,"Amsterdam, Netherlands",5
+80,"Kitzbuel, Austria",4
+80,"Hartwell, Georgia",2
+80,"Honolulu, Hawaii",4
+80,"Watch Hill, Rhode Island",2
+80,"New Delhi, India",4
+80,"Las Vegas, Nevada",3
+80,"Kathmandu, Nepal",4
+80,"Sun Valley, Idaho",5
+80,"Jackson Hole, Wyoming",5
+80,"Albuquerque, New Mexico",3
+80,"Kilimanjaro, Tanzania",4
+80,"Nairobi, Kenya",4
+80,"Washington D.C., U.S.",4
+80,"San Antonio, Texas",2
+80,"Brussels, Belgium",4
+80,"Osa Peninsula, Costa Rica",2
+80,"Red Frog Beach, Panama",4
+80,"Ubud, Indonesia",4
+80,"Buenos Aires, Argentina",4
+80,"Belgrade, Serbia",3
+80,"Bratislava, Slovakia",2
+81,"New York City, New York",5
+81,"New Orleans, Louisiana",3
+81,"Destin, Florida",3
+81,"Houston, Texas",2
+81,"Austin, Texas",5
+81,"Madrid, Spain",5
+81,"Denver, Colorado",2
+81,"San Diego, California",4
+81,"San Juan, Puerto Rico",4
+81,"St. John, Virgin Islands",5
+81,"Miami, Florida",2
+81,"Los Angeles, California",3
+81,"Phoenix, Arizona",2
+81,"San Francisco, California",4
+81,"Charlotte, North Carolina",3
+81,"Honolulu, Hawaii",4
+81,"San Antonio, Texas",2
+82,"Aspen, Colorado",5
+82,"New York City, New York",5
+82,"New Orleans, Louisiana",5
+82,"Destin, Florida",5
+82,"Cayman, Cayman Islands",5
+82,"Houston, Texas",4
+82,"Austin, Texas",5
+82,"Orlando, Florida",5
+82,"Denver, Colorado",5
+82,"Detroit, Michigan",3
+82,"Boston, Massachusetts",4
+82,"Seattle, Washington",5
+82,"Jackson Hole, Wyoming",5
+82,"Albuquerque, New Mexico",3
+82,"Washington D.C., U.S.",5
+82,"San Antonio, Texas",4
+83,"New York City, New York",5
+83,"Chicago, Illinois",5
+83,"Paris, France",5
+83,"London, UK",4
+83,"Orlando, Florida",5
+83,"Geneva, Switzerland",4
+83,"Dublin, Ireland",5
+83,"Lexington, Kentucky",4
+83,"Boston, Massachusetts",3
+83,"Charlotte, North Carolina",3
+83,"New Delhi, India",4
+83,"Albuquerque, New Mexico",3
+83,"Washington D.C., U.S.",4
+84,"Harbour Island, Bahamas",4
+84,"Telluride, Colorado",4
+84,"Aspen, Colorado",5
+84,"New York City, New York",4
+84,"New Orleans, Louisiana",4
+84,"Cabo San Lucas, Mexico",5
+84,"Destin, Florida",3
+84,"Belize City, Belize",4
+84,"Cayman, Cayman Islands",5
+84,"Punta Cana, Domican Republic",5
+84,"Turks and Caicos, Turks and Caicos",5
+84,"Chicago, Illinois",4
+84,"Houston, Texas",4
+84,"Cape Town, South Africa",5
+84,"Paris, France",5
+84,"Nice, France",5
+84,"Austin, Texas",5
+84,"London, UK",5
+84,"Gulf Shores, Alabama",1
+84,"Jackson, Mississippi",2
+84,"Orlando, Florida",4
+84,"Geneva, Switzerland",5
+84,"Dublin, Ireland",5
+84,"Lexington, Kentucky",3
+84,"Seoul, South Korea",3
+84,"Vancouver, Canada",4
+84,"Toronto, Canada",4
+84,"Macau, China",4
+84,"Lisbon, Portugal",5
+84,"Rome, Italy",5
+84,"Berlin, Germany",4
+84,"Madrid, Spain",5
+84,"Florence, Italy",5
+84,"Milwaukee, Wisconsin",3
+84,"Omaha, Nebraska",2
+84,"Denver, Colorado",4
+84,"San Diego, California",5
+84,"Barcelona, Spain",4
+84,"San Juan, Puerto Rico",3
+84,"Athens, Greece",3
+84,"St. John, Virgin Islands",5
+84,"Miami, Florida",4
+84,"Ogunquit, Maine",4
+84,"Ocean City, Maryland",3
+84,"Los Angeles, California",4
+84,"Lake Tahoe, California",4
+84,"Tokyo, Japan",4
+84,"Copenhagen, Denmark",4
+84,"Detroit, Michigan",2
+84,"Phoenix, Arizona",2
+84,"Boston, Massachusetts",3
+84,"Lima, Peru",3
+84,"Havana, Cuba",5
+84,"San Francisco, California",5
+84,"Istanbul, Turkey",4
+84,"Rehobeth, Delaware",3
+84,"Tulum, Mexico",3
+84,"Durham, North Carolina",3
+84,"St. Louis, Missouri",3
+84,"Charlotte, North Carolina",3
+84,"Key West, Florida",4
+84,"Saigon, Vietnam",4
+84,"Nashville, Tennessee",4
+84,"Woodbury, Connecticut",3
+84,"El Paso, Texas",1
+84,"Seattle, Washington",4
+84,"Dubrovnik, Croatia",4
+84,"Amsterdam, Netherlands",5
+84,"Kitzbuel, Austria",3
+84,"Hartwell, Georgia",3
+84,"Honolulu, Hawaii",5
+84,"Watch Hill, Rhode Island",4
+84,"New Delhi, India",5
+84,"Las Vegas, Nevada",4
+84,"Kathmandu, Nepal",3
+84,"Sun Valley, Idaho",3
+84,"Jackson Hole, Wyoming",4
+84,"Albuquerque, New Mexico",2
+84,"Kilimanjaro, Tanzania",3
+84,"Nairobi, Kenya",4
+84,"Washington D.C., U.S.",4
+84,"San Antonio, Texas",3
+84,"Brussels, Belgium",4
+84,"Osa Peninsula, Costa Rica",4
+84,"Red Frog Beach, Panama",3
+84,"Ubud, Indonesia",3
+84,"Buenos Aires, Argentina",4
+84,"Belgrade, Serbia",3
+84,"Bratislava, Slovakia",4
+85,"Aspen, Colorado",4
+85,"New York City, New York",2
+85,"New Orleans, Louisiana",3
+85,"Cabo San Lucas, Mexico",5
+85,"Destin, Florida",4
+85,"Belize City, Belize",3
+85,"Chicago, Illinois",4
+85,"Houston, Texas",1
+85,"Austin, Texas",5
+85,"Gulf Shores, Alabama",5
+85,"Orlando, Florida",4
+85,"Denver, Colorado",3
+85,"San Diego, California",2
+85,"Los Angeles, California",4
+85,"Lake Tahoe, California",4
+85,"Las Vegas, Nevada",4
+85,"San Antonio, Texas",3
+86,"New York City, New York",5
+86,"Orlando, Florida",3
+86,"Seoul, South Korea",5
+86,"Toronto, Canada",4
+86,"Los Angeles, California",5
+86,"Boston, Massachusetts",5
+86,"San Francisco, California",4
+86,"Saigon, Vietnam",4
+86,"Las Vegas, Nevada",3
+86,"Washington D.C., U.S.",3
+87,"Harbour Island, Bahamas",4
+87,"Telluride, Colorado",5
+87,"Aspen, Colorado",4
+87,"New York City, New York",4
+87,"New Orleans, Louisiana",5
+87,"Cabo San Lucas, Mexico",1
+87,"Destin, Florida",3
+87,"Belize City, Belize",4
+87,"Cayman, Cayman Islands",3
+87,"Punta Cana, Domican Republic",3
+87,"Turks and Caicos, Turks and Caicos",4
+87,"Chicago, Illinois",3
+87,"Houston, Texas",5
+87,"Cape Town, South Africa",2
+87,"Paris, France",1
+87,"Nice, France",1
+87,"Austin, Texas",5
+87,"London, UK",1
+87,"Gulf Shores, Alabama",3
+87,"Jackson, Mississippi",1
+87,"Orlando, Florida",1
+87,"Geneva, Switzerland",5
+87,"Dublin, Ireland",5
+87,"Lexington, Kentucky",4
+87,"Seoul, South Korea",3
+87,"Vancouver, Canada",2
+87,"Toronto, Canada",4
+87,"Macau, China",3
+87,"Lisbon, Portugal",3
+87,"Rome, Italy",4
+87,"Berlin, Germany",3
+87,"Madrid, Spain",3
+87,"Florence, Italy",2
+87,"Milwaukee, Wisconsin",4
+87,"Omaha, Nebraska",4
+87,"Denver, Colorado",5
+87,"San Diego, California",5
+87,"Barcelona, Spain",3
+87,"San Juan, Puerto Rico",4
+87,"Athens, Greece",4
+87,"St. John, Virgin Islands",4
+87,"Miami, Florida",2
+87,"Ogunquit, Maine",3
+87,"Ocean City, Maryland",4
+87,"Los Angeles, California",4
+87,"Lake Tahoe, California",3
+87,"Tokyo, Japan",4
+87,"Copenhagen, Denmark",4
+87,"Detroit, Michigan",3
+87,"Phoenix, Arizona",3
+87,"Boston, Massachusetts",4
+87,"Lima, Peru",3
+87,"Havana, Cuba",4
+87,"San Francisco, California",4
+87,"Istanbul, Turkey",4
+87,"Rehobeth, Delaware",4
+87,"Tulum, Mexico",4
+87,"Durham, North Carolina",4
+87,"St. Louis, Missouri",3
+87,"Charlotte, North Carolina",4
+87,"Key West, Florida",4
+87,"Saigon, Vietnam",4
+87,"Nashville, Tennessee",4
+87,"Woodbury, Connecticut",4
+87,"El Paso, Texas",4
+87,"Seattle, Washington",5
+87,"Dubrovnik, Croatia",4
+87,"Amsterdam, Netherlands",4
+87,"Kitzbuel, Austria",3
+87,"Hartwell, Georgia",3
+87,"Honolulu, Hawaii",4
+87,"Watch Hill, Rhode Island",4
+87,"New Delhi, India",4
+87,"Las Vegas, Nevada",4
+87,"Kathmandu, Nepal",3
+87,"Sun Valley, Idaho",3
+87,"Jackson Hole, Wyoming",3
+87,"Albuquerque, New Mexico",3
+87,"Kilimanjaro, Tanzania",3
+87,"Nairobi, Kenya",4
+87,"Washington D.C., U.S.",3
+87,"San Antonio, Texas",4
+87,"Brussels, Belgium",3
+87,"Osa Peninsula, Costa Rica",3
+87,"Red Frog Beach, Panama",3
+87,"Ubud, Indonesia",3
+87,"Buenos Aires, Argentina",3
+87,"Belgrade, Serbia",3
+87,"Bratislava, Slovakia",2
+88,"Houston, Texas",1
+88,"Austin, Texas",5
+88,"Gulf Shores, Alabama",4
+88,"Orlando, Florida",3
+88,"Toronto, Canada",5
+88,"Denver, Colorado",4
+88,"Washington D.C., U.S.",3
+88,"San Antonio, Texas",3
+89,"New York City, New York",4
+89,"New Orleans, Louisiana",3
+89,"Belize City, Belize",4
+89,"Cayman, Cayman Islands",4
+89,"Turks and Caicos, Turks and Caicos",4
+89,"Chicago, Illinois",4
+89,"Houston, Texas",3
+89,"Cape Town, South Africa",5
+89,"Gulf Shores, Alabama",4
+89,"Orlando, Florida",3
+89,"Lexington, Kentucky",4
+89,"Ocean City, Maryland",3
+89,"San Francisco, California",3
+89,"Rehobeth, Delaware",3
+89,"Amsterdam, Netherlands",3
+89,"Honolulu, Hawaii",4
+89,"Watch Hill, Rhode Island",4
+89,"Washington D.C., U.S.",4
+90,"Harbour Island, Bahamas",5
+90,"Telluride, Colorado",5
+90,"Aspen, Colorado",5
+90,"New York City, New York",5
+90,"New Orleans, Louisiana",5
+90,"Cabo San Lucas, Mexico",5
+90,"Destin, Florida",5
+90,"Belize City, Belize",5
+90,"Cayman, Cayman Islands",5
+90,"Punta Cana, Domican Republic",5
+90,"Turks and Caicos, Turks and Caicos",5
+90,"Chicago, Illinois",5
+90,"Houston, Texas",5
+90,"Cape Town, South Africa",5
+90,"Paris, France",5
+90,"Nice, France",5
+90,"Austin, Texas",5
+90,"London, UK",5
+90,"Gulf Shores, Alabama",5
+90,"Jackson, Mississippi",5
+90,"Orlando, Florida",5
+90,"Geneva, Switzerland",5
+90,"Dublin, Ireland",5
+90,"Lexington, Kentucky",5
+90,"Seoul, South Korea",5
+90,"Vancouver, Canada",5
+90,"Toronto, Canada",5
+90,"Macau, China",5
+90,"Lisbon, Portugal",5
+90,"Rome, Italy",5
+90,"Berlin, Germany",5
+90,"Madrid, Spain",5
+90,"Florence, Italy",5
+90,"Milwaukee, Wisconsin",5
+90,"Omaha, Nebraska",5
+90,"Denver, Colorado",5
+90,"San Diego, California",5
+90,"Barcelona, Spain",5
+90,"San Juan, Puerto Rico",5
+91,"Harbour Island, Bahamas",4
+91,"Telluride, Colorado",3
+91,"Aspen, Colorado",3
+91,"New York City, New York",5
+91,"New Orleans, Louisiana",3
+91,"Cabo San Lucas, Mexico",2
+91,"Destin, Florida",3
+91,"Belize City, Belize",4
+91,"Cayman, Cayman Islands",3
+91,"Punta Cana, Domican Republic",3
+91,"Turks and Caicos, Turks and Caicos",2
+91,"Chicago, Illinois",2
+91,"Houston, Texas",4
+91,"Cape Town, South Africa",4
+91,"Paris, France",3
+91,"Nice, France",4
+91,"Austin, Texas",3
+91,"Seoul, South Korea",4
+91,"Vancouver, Canada",4
+91,"Toronto, Canada",5
+91,"Lisbon, Portugal",5
+91,"Bratislava, Slovakia",1
+92,"New York City, New York",3
+92,"Destin, Florida",5
+92,"Turks and Caicos, Turks and Caicos",5
+92,"Houston, Texas",4
+92,"Paris, France",4
+92,"Austin, Texas",5
+92,"Orlando, Florida",4
+92,"Rome, Italy",4
+92,"Florence, Italy",5
+92,"Denver, Colorado",4
+92,"San Diego, California",3
+92,"Copenhagen, Denmark",4
+92,"Seattle, Washington",4
+92,"Amsterdam, Netherlands",5
+92,"Albuquerque, New Mexico",3
+92,"San Antonio, Texas",4
+93,"New York City, New York",4
+93,"Cayman, Cayman Islands",3
+93,"Paris, France",4
+93,"London, UK",4
+93,"Phoenix, Arizona",4
+93,"Key West, Florida",5
+93,"Washington D.C., U.S.",5
